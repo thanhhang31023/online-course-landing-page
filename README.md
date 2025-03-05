@@ -23,9 +23,10 @@ This project is a **static landing page** developed entirely from a Figma design
 - 🔧 **Optimize performance (Lazy loading images,...)**
 
 ## 🛠️ Technologies Used
-- **HTML5** - Semantic markup
-- **CSS3** - Styling and layout
+- **HTML** - Structuring the webpage
+- **CSS** - Styling and layout
 - **Google Fonts** - Beautiful typography
+
 
 ## 📂 Project Structure
 ```plaintext
